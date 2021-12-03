@@ -1,0 +1,23 @@
+{
+    "name": "magelearn/module-popup-promo",
+    "description": "This module displays displays popup with promo text and coupon code.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vijay Rami",
+            "email": "vijaymrami@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\PopupPromo\\": ""
+        }
+    }
+}

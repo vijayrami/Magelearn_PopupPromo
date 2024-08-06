@@ -3,16 +3,16 @@ This module displays displays popup with promo text and coupon code.
 
 # Screen Shots
 
-[![Home-Page.png](https://i.postimg.cc/rw0VpjBJ/Home-Page.png)](https://postimg.cc/pmvbGfXh)
+![Home-Page.png](/assets/first.png)
 
-[![Configuration.png](https://i.postimg.cc/Z5Wf4QDK/Configuration.png)](https://postimg.cc/fVh7v8N6)
+![Configuration.png](/assets/second.png)
 
-[![Configuration1.png](https://i.postimg.cc/4yncVDcY/Configuration1.png)](https://postimg.cc/V0Q5cHDw)
+![Configuration1.png](/assets/third.png)
 
 ## Add block with block id : `pop-up-promo`
 
-[![Popup-Promo-Block.png](https://i.postimg.cc/4dvGwyzM/Popup-Promo-Block.png)](https://postimg.cc/njLNhHSY)
+![Popup-Promo-Block.png](/assets/fourth.png)
 
 ## Add Coupon code
 
-[![10-Off-Promotions.png](https://i.postimg.cc/GpJg5y5k/10-Off-Promotions.png)](https://postimg.cc/t1Jz1YyT)
+![10-Off-Promotions.png](/assets/fifth.png)
